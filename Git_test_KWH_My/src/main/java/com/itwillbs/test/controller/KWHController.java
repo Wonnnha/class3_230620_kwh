@@ -7,4 +7,8 @@ public class KWHController {
 		
 	}
 	
+	public void kwh() {
+		System.out.println("kwh~~!!");
+	}
+	
 }
